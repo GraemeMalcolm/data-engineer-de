@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Analyze data in a data lake with SQL'
+    title: 'Analysieren von Daten in einem Data Lake mit SQL'
     module: 'Modul 2: Daten in einem Data Lake analysieren'
 ---
 
