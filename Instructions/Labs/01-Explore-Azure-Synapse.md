@@ -26,13 +26,13 @@ Ein Azure Synapse Analytics *workspace* bietet einen zentralen Punkt für die Ve
 
     ```
     rm -r dp-000 -f
-    Git-clone https://github.com/GraemeMalcolm/data-engineer-de DP-000
+    Git clone https://github.com/GraemeMalcolm/data-engineer-de DP-000
     ```
 
 5. Nachdem das Repo geklont wurde, geben Sie die folgenden Befehle ein, um in den Ordner für diese Übung zu wechseln, und führen Sie das darin enthaltene Skript **setup.ps1** aus:
 
     ```
-    cd dp-000/Allefiles/Labs/01
+    cd dp-000/Allfiles/Labs/01
     ./setup.ps1
     ```
 
